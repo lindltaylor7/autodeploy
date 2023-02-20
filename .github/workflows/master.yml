@@ -17,4 +17,4 @@ jobs:
         server: www.jairpl.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /autoDeploy/
+        server-dir: /public_html/autoDeploy/
